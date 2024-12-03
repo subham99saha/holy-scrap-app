@@ -12,4 +12,4 @@ Will write more with progress in development. For now here are some snaps from t
 
 ![](https://raw.githubusercontent.com/subham99saha/holy-scrap-app/refs/heads/main/snaps/Screenshot%202024-12-01%20195233.png)
 
-![](https://raw.githubusercontent.com/subham99saha/holy-scrap-app/refs/heads/main/snaps/Screenshot%202024-12-01%20192206.png)
+![](https://raw.githubusercontent.com/subham99saha/holy-scrap-app/refs/heads/main/snaps/Screenshot%202024-12-03%20192206.png)
